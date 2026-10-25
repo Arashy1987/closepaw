@@ -73,7 +73,7 @@
     "display_name": "GPT-5.5 (ChatGPT sign-in)",
     "provider": "OPENAI_CODEX",
     "api": "response",
-    "model_id": "gpt-5.5",
+"model_id": "gpt-6.1-sol",
     "context_window": 400000
   }
 }
